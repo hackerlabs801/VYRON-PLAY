@@ -1,0 +1,9 @@
+{
+  "source": "User-supplied lamborghini_aventador.glb",
+  "originalSha256": "e0860bb2658bc69a35a66b37442b2f6115edd3aa1dd5c40cbe837b77954ce5ed",
+  "originalVertices": 4455275,
+  "originalTriangles": 1499992,
+  "distanceVertices": 52444,
+  "distanceTriangles": 112663,
+  "texturePolicy": "Original embedded base-color and metallic-roughness textures; shared with distance LOD; no recoloring."
+}
