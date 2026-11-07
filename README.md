@@ -1,21 +1,21 @@
-# ZERAVELLE
+# VYRON PLAY
 ### Beyond the Ordinary Screen. Into Another Dimension.
 
 **An immersive browser-based 3D gaming experience where interactive environments, real-time graphics, and modern web technology come together to create a world worth exploring.**
 
-Welcome to **Zeravelle** — a 3D gaming experience designed to bring the depth, atmosphere, and visual possibilities of three-dimensional gaming directly to your web browser.
+Welcome to **Vyron Play** — a 3D gaming experience designed to bring the depth, atmosphere, and visual possibilities of three-dimensional gaming directly to your web browser.
 
-Zeravelle explores the intersection of interactive entertainment and modern browser technology, transforming a conventional web experience into a visually engaging three-dimensional environment. Built around real-time 3D rendering and interactive game elements, the project aims to deliver an experience that feels dynamic, responsive, and immersive without requiring players to download or install a traditional desktop game.
+Vyron Play explores the intersection of interactive entertainment and modern browser technology, transforming a conventional web experience into a visually engaging three-dimensional environment. Built around real-time 3D rendering and interactive game elements, the project aims to deliver an experience that feels dynamic, responsive, and immersive without requiring players to download or install a traditional desktop game.
 
-From the way virtual objects occupy space to the way environments are presented through perspective, movement, and visual depth, Zeravelle is designed to make the browser more than just a platform for displaying content. It becomes a gateway into an interactive digital world.
+From the way virtual objects occupy space to the way environments are presented through perspective, movement, and visual depth, Vyron Play is designed to make the browser more than just a platform for displaying content. It becomes a gateway into an interactive digital world.
 
 ---
 
-## 🌌 About Zeravelle
+## 🌌 About Vyron Play
 
-Zeravelle is a browser-native 3D game that brings together three-dimensional graphics, interactive gameplay concepts, and web-based technology.
+Vyron Play is a browser-native 3D game that brings together three-dimensional graphics, interactive gameplay concepts, and web-based technology.
 
-Unlike conventional 2D browser experiences, Zeravelle embraces the possibilities of a three-dimensional environment, where objects, perspectives, spatial relationships, and visual elements contribute to the overall experience.
+Unlike conventional 2D browser experiences, Vyron Play embraces the possibilities of a three-dimensional environment, where objects, perspectives, spatial relationships, and visual elements contribute to the overall experience.
 
 The project focuses on creating a distinctive gaming identity through immersive presentation, interactive environments, and the flexibility of modern web technologies.
 
@@ -23,7 +23,7 @@ Whether experienced on a desktop or another compatible device, the objective is 
 
 ## 🎮 The 3D Gaming Experience
 
-At the heart of Zeravelle is its three-dimensional presentation.
+At the heart of Vyron Play is its three-dimensional presentation.
 
 The game uses 3D elements to establish a sense of depth, perspective, and spatial interaction, moving beyond the limitations of traditional flat interfaces.
 
@@ -39,7 +39,7 @@ Key aspects of its 3D experience include:
 
 ## ⚡ Browser-Based Technology
 
-Zeravelle brings 3D gaming to the web, reducing the barriers traditionally associated with installing and running desktop games.
+Vyron Play brings 3D gaming to the web, reducing the barriers traditionally associated with installing and running desktop games.
 
 The browser acts as the platform through which the game is accessed, rendered, and experienced.
 
@@ -55,7 +55,7 @@ This approach offers several advantages:
 
 Three-dimensional gaming involves more than displaying objects on a screen. It involves representing an environment through spatial coordinates, geometry, perspective, and continuous visual updates.
 
-Zeravelle is built around this fundamental concept.
+Vyron Play is built around this fundamental concept.
 
 Its 3D presentation brings together the visual components that make an interactive virtual environment possible:
 
@@ -72,29 +72,29 @@ Together, these concepts help establish the foundation of an engaging browser-ba
 
 The web has evolved into a powerful platform capable of supporting increasingly sophisticated interactive experiences.
 
-Zeravelle embraces this evolution by exploring how browser technology can be used to deliver 3D gaming experiences without relying on traditional desktop installation workflows.
+Vyron Play embraces this evolution by exploring how browser technology can be used to deliver 3D gaming experiences without relying on traditional desktop installation workflows.
 
 The project represents an approach to gaming where accessibility and visual interactivity coexist, bringing game experiences closer to users through technologies already available in modern web browsers.
 
 ## 🚀 Project Vision
 
-The vision behind Zeravelle is to explore the possibilities of three-dimensional gaming on the web.
+The vision behind Vyron Play is to explore the possibilities of three-dimensional gaming on the web.
 
 It represents a step towards making browser-based games more visually ambitious, interactive, and immersive.
 
-Rather than treating the browser as a limitation, Zeravelle treats it as an opportunity — a platform where real-time graphics, interactive environments, and creative game development can come together.
+Rather than treating the browser as a limitation, Vyron Play treats it as an opportunity — a platform where real-time graphics, interactive environments, and creative game development can come together.
 
-The long-term vision is to establish Zeravelle as a distinctive gaming identity with room for further development, visual refinement, gameplay improvements, and new interactive possibilities.
+The long-term vision is to establish Vyron Play as a distinctive gaming identity with room for further development, visual refinement, gameplay improvements, and new interactive possibilities.
 
-## ✨ What Makes Zeravelle Different?
+## ✨ What Makes Vyron Play Different?
 
-Zeravelle is built around a simple idea:
+Vyron Play is built around a simple idea:
 
 **A browser should be capable of delivering more than a conventional web experience.**
 
 It should be capable of becoming an interactive world.
 
-By combining three-dimensional presentation with browser-based accessibility, Zeravelle explores a different way of experiencing games — one where players can enter a virtual environment directly through the web.
+By combining three-dimensional presentation with browser-based accessibility, Vyron Play explores a different way of experiencing games — one where players can enter a virtual environment directly through the web.
 
 ## 🎯 Project Objectives
 
@@ -108,21 +108,21 @@ By combining three-dimensional presentation with browser-based accessibility, Ze
 
 ## 🛠️ Technology and Development
 
-Zeravelle is developed as a web-based gaming project, using browser technologies to deliver its interactive experience.
+Vyron Play is developed as a web-based gaming project, using browser technologies to deliver its interactive experience.
 
 Its exact technology stack, rendering engine, dependencies, and implementation details can be documented as the project evolves.
 
 The architecture and development approach are intended to support the creation of an interactive three-dimensional gaming experience directly within the browser.
 
-## 🌐 Experience Zeravelle
+## 🌐 Experience Vyron Play
 
 **Enter the world. Explore the dimensions. Experience gaming differently.**
 
-Zeravelle brings together the creativity of game development and the possibilities of modern web technology to create an experience that lives beyond the boundaries of a traditional webpage.
+Vyron Play brings together the creativity of game development and the possibilities of modern web technology to create an experience that lives beyond the boundaries of a traditional webpage.
 
 ---
 
-### ZERAVELLE
+### VYRON PLAY
 **Beyond the Ordinary Screen. Into Another Dimension.**
 
 *A new dimension of browser-based gaming.*
